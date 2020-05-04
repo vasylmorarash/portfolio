@@ -1,36 +1,56 @@
 {
-	"data": {
-		"developer": {
-			"image": "https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/my-photo.png",
-			"name": "Vasyl Morarash",
-			"summary": "I have been working as an iOS developer for 3+ years. Also I have experience as Magento Developer for about 2+ years. I know such programming languages like Swift, PHP. My iOS experience includes teamwork, setup project structure, data optimization, setup database structure, fixing bugs etc. Worked as freelancer as iOS Developer. Strong engineering professional with a Master’s Degree focused in Applied Mathematics from Yuriy Fedkovych Chernivtsi National University. I am constantly strive for learning new technologies and look to ways to better myself in this rapidly changing industry.",
-			"links": {
-				"linkedin": "https://www.linkedin.com/in/vasylmorarash/",
-				"email": "vasylmorarash@gmail.com"
-			}
-		},
-		"projects": [
-			{
-				"image": "https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/appicon.png",
-				"name": "ScreenMeetSupport",
-				"appstore-link": "https://apps.apple.com/ua/app/screenmeet-support/id1243134245",
-				"description": "ScreenMeetSupport is an enterprise remote support application for screen sharing and chat.",
-				"role": "Rewrite application as Sole developer. Developed new features from scratch.",
-				"technologies": [
-					"Swift",
-					"Socket",
-					"VIPER",
-					"ReplayKit",
-					"App Store"
-				],
-				"images": [
-					"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/image-1.png",
-					"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/image-2.png",
-					"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/image-3.png",
-					"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/image-4.png",
-					"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/image-5.png"
-				]
-			}
-		]
-	}
+	"data": [
+		{
+			"developer": {
+				"image": "https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/my-photo.png",
+				"name": "Vasyl Morarash",
+				"summary": "I have been working as an iOS developer for 3+ years. Also I have experience as Magento Developer for about 2+ years. I know such programming languages like Swift, PHP. My iOS experience includes teamwork, setup project structure, data optimization, setup database structure, fixing bugs etc. Worked as freelancer as iOS Developer. Strong engineering professional with a Master’s Degree focused in Applied Mathematics from Yuriy Fedkovych Chernivtsi National University. I am constantly strive for learning new technologies and look to ways to better myself in this rapidly changing industry.",
+				"links": {
+					"c": "https://www.linkedin.com/in/vasylmorarash/",
+					"email": "vasylmorarash@gmail.com"
+				}
+			},
+			"projects": [
+				{
+					"image": "https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/appicon.png",
+					"name": "ScreenMeetSupport",
+					"appstore-link": "https://apps.apple.com/ua/app/screenmeet-support/id1243134245",
+					"description": "ScreenMeetSupport is an enterprise remote support application for screen sharing and chat.",
+					"role": "Rewrite application as Sole developer. Developed new features from scratch.",
+					"technologies": [
+						"Swift",
+						"Socket",
+						"VIPER",
+						"ReplayKit",
+						"App Store"
+					],
+					"images": [
+						"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/image-1.png",
+						"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/image-2.png",
+						"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/image-3.png",
+						"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/image-4.png",
+						"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-ios/image-5.png"
+					]
+				},
+				{
+					"image": "https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-macos/appicon.png",
+					"name": "ScreenMeetSupport",
+					"description": "ScreenMeetSupport is an enterprise remote support application for screen sharing, remote control, chat and file transfer.",
+					"role": "Start working on already existing project as part of a team of two.",
+					"technologies": [
+						"Swift",
+						"Socket",
+						"MVC",
+						"WebRTC",
+						"App Store"
+					],
+					"images": [
+						"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-macos/image-1.png",
+						"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-macos/image-2.png",
+						"https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/screenmeet/sm-support-macos/image-3.png"
+					]
+				}
+			]
+		}
+	]
 }
