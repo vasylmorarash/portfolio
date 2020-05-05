@@ -4,9 +4,10 @@
 			"developer": {
 				"image": "https://raw.githubusercontent.com/vasylmorarash/portfolio/master/images/my-photo.png",
 				"name": "Vasyl Morarash",
+				"position": "iOS Developer",
 				"summary": "I have been working as an iOS developer for 3+ years. Also I have experience as Magento Developer for about 2+ years. I know such programming languages like Swift, PHP. My iOS experience includes teamwork, setup project structure, data optimization, setup database structure, fixing bugs etc. Worked as freelancer as iOS Developer. Strong engineering professional with a Master’s Degree focused in Applied Mathematics from Yuriy Fedkovych Chernivtsi National University. I am constantly strive for learning new technologies and look to ways to better myself in this rapidly changing industry.",
 				"links": {
-					"c": "https://www.linkedin.com/in/vasylmorarash/",
+					"linkedin": "https://www.linkedin.com/in/vasylmorarash/",
 					"email": "vasylmorarash@gmail.com"
 				}
 			},
